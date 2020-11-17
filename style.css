@@ -1,0 +1,102 @@
+{
+ margin: 0px;
+ padding: 0px;
+}
+#wrapper{
+ width: 1920px;
+ height: 1400px;
+ background-color:#12355b;
+ margin: 0px auto;
+ padding-top: 40px;
+}
+#header{
+ height: 150px;
+ background-color:#d72638;
+ margin: 0px 40px 80px 40px;
+ border-radius: 50px;
+ 
+
+ 
+}
+
+h1 {
+    display: block;
+    font-size: 6em;
+    margin-block-start: 10px;
+    margin-inline-start: 30px;
+    margin-inline-end: 40px;
+    font-weight: bold;
+    color: #bfd7ea;
+}
+
+#navigation{
+ min-height: 700px;
+ width: 400px;
+ background-color: #087e8b;
+ margin: 0px 40px 120px 40px;
+ border-radius: 50px;
+}
+
+
+
+ul {
+    
+    font-size: 1.5em;
+    color: #46dee5;
+    list-style-type: disc;
+    margin-block-start: 30px;
+    margin-block-end: 50px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+
+}
+
+a{
+    margin: 10px;
+    color: #46dee5;
+}
+
+
+#main_content{
+ height: 850px;
+ width: 1400px;
+ background-color:#0c1821;
+ margin: -820px 480px 300px 480px;
+ padding-top:  40px;
+ padding-bottom: -140px; 
+ border-radius: 50px;
+
+}
+
+p{
+    color: white;
+    font-size: ;
+}
+
+h2{
+    color: white;
+}
+
+h3{
+
+
+font-size: 3em;
+margin: 40px  40px 10px 40px;
+
+}
+
+span{
+    color:#1279e7 ;
+}
+ 
+#advertisement{
+ min-height: 150px;
+ width: 1830px;
+ background-color:#5c6672;
+ margin: 150px -440px 10px -440px;
+ 
+ border-radius: 50px;
+ 
+
+}
